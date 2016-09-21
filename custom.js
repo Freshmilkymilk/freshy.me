@@ -131,9 +131,9 @@ $(document).ready(function () {
         $('.timer1').countTo({
 
             from: 0, // the number you want to start
-            to: 8679, // the number you want to reach
+            to: 50, // the number you want to reach
             speed: 1,
-            refreshInterval: 8679
+            refreshInterval: 50
 
         });
 
@@ -141,9 +141,9 @@ $(document).ready(function () {
         $('.timer2').countTo({
 
             from: 0,// the number you want to start
-            to: 340,// the number you want to reach
+            to: 110,// the number you want to reach
             speed: 1,
-            refreshInterval: 340
+            refreshInterval: 110
 
         });
 
@@ -152,9 +152,9 @@ $(document).ready(function () {
         $('.timer3').countTo({
 
             from: 0,// the number you want to start
-            to: 100,// the number you want to reach
+            to: 300,// the number you want to reach
             speed: 1,
-            refreshInterval: 100
+            refreshInterval: 300
         });
 
 
@@ -162,9 +162,9 @@ $(document).ready(function () {
         $('.timer4').countTo({
 
             from: 0,// the number you want to start
-            to: 3456,// the number you want to reach
+            to: 400,// the number you want to reach
             speed: 1,
-            refreshInterval: 3456
+            refreshInterval: 400
 
 
         });
@@ -184,8 +184,8 @@ $(document).ready(function () {
             $('.timer1').countTo({
 
                 from: 0, // the number you want to start
-                to: 8679, // the number you want to reach
-                speed: 4000,
+                to: 50, // the number you want to reach
+                speed: 2500,
                 refreshInterval: 100
 
             });
@@ -194,8 +194,8 @@ $(document).ready(function () {
             $('.timer2').countTo({
 
                 from: 0,// the number you want to start
-                to: 340,// the number you want to reach
-                speed: 2500,
+                to: 110,// the number you want to reach
+                speed: 4000,
                 refreshInterval: 50
 
             });
@@ -205,7 +205,7 @@ $(document).ready(function () {
             $('.timer3').countTo({
 
                 from: 0,// the number you want to start
-                to: 100,// the number you want to reach
+                to: 300,// the number you want to reach
                 speed: 2000,
                 refreshInterval: 10
             });
@@ -215,7 +215,7 @@ $(document).ready(function () {
             $('.timer4').countTo({
 
                 from: 0,// the number you want to start
-                to: 3456,// the number you want to reach
+                to: 400,// the number you want to reach
                 speed: 4000,
                 refreshInterval: 10,
 
