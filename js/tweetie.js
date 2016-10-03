@@ -12,7 +12,7 @@
 
         // Default settings
         var settings = $.extend({
-            'username': freshmilkymilk,
+            'username': null,
             'list': null,
             'hashtag': null,
             'count': 4,

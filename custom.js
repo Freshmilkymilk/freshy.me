@@ -400,7 +400,6 @@ $(document).ready(function () {
     /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     $('.tweet').twittie({
         username: 'freshmilkymilk',
-        list: 'envato-tf',
         count: 2
     });
 
