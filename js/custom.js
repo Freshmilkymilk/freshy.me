@@ -399,8 +399,8 @@ $(document).ready(function () {
     /* twitter init */
     /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     $('.tweet').twittie({
-        username: 'artbreeze02',
-        list: 'envato-tf',
+        username: 'freshmilkymilk',
+        list: null,
         count: 2
     });
 
